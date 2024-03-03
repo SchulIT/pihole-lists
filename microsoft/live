@@ -2,5 +2,5 @@
 # Gehört zwar nicht direkt zu Microsoft 365, aber scheinbar benötigen
 # manche Apps Zugriff auf diese URLs
 
-||live.net^
-||live.com^
+@@||live.net^
+@@||live.com^

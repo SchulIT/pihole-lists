@@ -2,19 +2,19 @@
 # https://support.microsoft.com/en-us/topic/windows-activation-or-validation-fails-with-error-code-0x8004fe33-a9afe65e-230b-c1ed-3414-39acd7fddf52
 # und undokumentierte Domains
 
-||sls.microsoft.com^
-||mp.microsoft.com ^
-||go.microsoft.com ^
-||activation.sls.microsoft.com ^
-||crl.microsoft.com ^
-||validation.sls.microsoft.com ^
-||activation-v2.sls.microsoft.com ^
-||validation-v2.sls.microsoft.com ^
-||displaycatalog.mp.microsoft.com ^
-||licensing.mp.microsoft.com ^
-||purchase.mp.microsoft.com ^
-||displaycatalog.md.mp.microsoft.com^
-||licensing.md.mp.microsoft.com ^
-||purchase.md.mp.microsoft.com ^
-||cem.services.microsoft.com^
-||login.live.com^
+@@||sls.microsoft.com^
+@@||mp.microsoft.com ^
+@@||go.microsoft.com ^
+@@||activation.sls.microsoft.com ^
+@@||crl.microsoft.com ^
+@@||validation.sls.microsoft.com ^
+@@||activation-v2.sls.microsoft.com ^
+@@||validation-v2.sls.microsoft.com ^
+@@||displaycatalog.mp.microsoft.com ^
+@@||licensing.mp.microsoft.com ^
+@@||purchase.mp.microsoft.com ^
+@@||displaycatalog.md.mp.microsoft.com^
+@@||licensing.md.mp.microsoft.com ^
+@@||purchase.md.mp.microsoft.com ^
+@@||cem.services.microsoft.com^
+@@||login.live.com^
