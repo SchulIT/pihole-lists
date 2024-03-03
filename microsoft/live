@@ -1,0 +1,6 @@
+# Domains für live.com
+# Gehört zwar nicht direkt zu Microsoft 365, aber scheinbar benötigen
+# manche Apps Zugriff auf diese URLs
+
+||live.net^
+||live.com^

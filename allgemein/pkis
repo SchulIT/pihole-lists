@@ -1,0 +1,45 @@
+# Diese URLs nutzen Browser, um HTTPS-Zertifikate zu prüfen
+
+# Google PKI
+crl.pki.goog
+ocsp.pki.goog
+
+# Let's Encrypt
+# https://letsencrypt.org/docs/lencr.org/
+o.lencr.org
+c.lencr.org
+i.lencr.org
+
+# Digicert, Thawe, GeoTrust, RapidSSL
+# https://knowledge.digicert.com/alerts/new-dedicated-ip-addresses
+ocsp.digicert.com
+status.thawte.com
+status.geotrust.com
+status.rapidssl.com
+crl3.digicert.com
+crl4.digicert.com
+cdp.thawte.com
+cdp.geotrust.com
+cdp.rapidssl.com
+
+# Sectigo
+# https://www.sectigo.com/knowledge-base/detail/OCSP-and-CRL-access-information/kA01N000000zFJr
+ocsp.sectigo.com
+ocsp.usertrust.com
+ocsp.comodoca.com
+crl.sectigo.com
+crl.usertrust.com
+crl.comodoca.com
+
+# Entrust
+# https://www.entrust.com/de/knowledgebase/ssl/ip-range-for-entrust-revocation-crlocsp
+crl.entrust.net
+ocsp.entrust.net
+
+# Apple
+# https://support.apple.com/en-us/101555
+certs.apple.com
+crl.apple.com
+ocsp.apple.com
+ocsp2.apple.com
+valid.apple.com

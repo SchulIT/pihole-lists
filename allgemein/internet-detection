@@ -1,0 +1,9 @@
+# Diese Domains nutzen Windows, Android, iOS und macOS zur Erkennung,
+# ob Internet verfügbar ist (diese Domains sollten nicht gesperrt werden)
+
+||msftconnecttest.com^
+||msftncsi.com^
+||connectivitycheck.gstatic.com^
+||detectportal.firefox.com^
+||captive.apple.com^
+||connectivity.samsung.com.cn^
