@@ -1,6 +1,6 @@
 # Zugriff auf Apple (https://support.apple.com/en-us/101555)
 # https://support.apple.com/en-us/101555
 
-apple.com
-mzstatic.com
-apple-mapkit.com
+@@||apple.com^
+@@||mzstatic.com^
+@@||apple-mapkit.com^
