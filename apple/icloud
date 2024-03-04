@@ -1,5 +1,7 @@
 # Zugriff auf die iCloud
 # https://support.apple.com/en-us/101555
+# Achtung: es muss sichergestellt werden, dass mask.icloud.com und mask-h2.icloud.com
+# blockiert werden. Siehe: https://developer.apple.com/support/prepare-your-network-for-icloud-private-relay
 
 @@||icloud.com^
 @@||icloud-content.com^
