@@ -3,18 +3,18 @@
 # und undokumentierte Domains
 
 @@||sls.microsoft.com^
-@@||mp.microsoft.com ^
-@@||go.microsoft.com ^
-@@||activation.sls.microsoft.com ^
-@@||crl.microsoft.com ^
-@@||validation.sls.microsoft.com ^
-@@||activation-v2.sls.microsoft.com ^
-@@||validation-v2.sls.microsoft.com ^
-@@||displaycatalog.mp.microsoft.com ^
-@@||licensing.mp.microsoft.com ^
-@@||purchase.mp.microsoft.com ^
+@@||mp.microsoft.com^
+@@||go.microsoft.com^
+@@||activation.sls.microsoft.com^
+@@||crl.microsoft.com^
+@@||validation.sls.microsoft.com^
+@@||activation-v2.sls.microsoft.com^
+@@||validation-v2.sls.microsoft.com^
+@@||displaycatalog.mp.microsoft.com^
+@@||licensing.mp.microsoft.com^
+@@||purchase.mp.microsoft.com^
 @@||displaycatalog.md.mp.microsoft.com^
-@@||licensing.md.mp.microsoft.com ^
-@@||purchase.md.mp.microsoft.com ^
+@@||licensing.md.mp.microsoft.com^
+@@||purchase.md.mp.microsoft.com^
 @@||cem.services.microsoft.com^
 @@||login.live.com^
