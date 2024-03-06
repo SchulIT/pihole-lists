@@ -97,9 +97,9 @@ domains.sort()
 
 output_directory = os.path.dirname(os.path.realpath(__file__))
 handle = open(output_directory + "/microsoft365-wildcard", "w")
-handle.write("Wildcard-Domains fuer Microsoft 365\n")
-handle.write("Generiert aus: " + ENDPOINT_URL + "\n")
-handle.write("Generiert am: " + datetime.now().strftime("%Y-%m-%d %H:%M:%S") + "\n\n")
+handle.write("# Wildcard-Domains fuer Microsoft 365\n")
+handle.write("# Generiert aus: " + ENDPOINT_URL + "\n")
+handle.write("# Generiert am: " + datetime.now().strftime("%Y-%m-%d %H:%M:%S") + "\n\n")
 
 for wildcard in wildcards:
     handle.write("@@||" + wildcard + "^\n")
@@ -107,9 +107,9 @@ for wildcard in wildcards:
 handle.close()
 
 handle = open(output_directory + "/microsoft365-specific", "w")
-handle.write("Nicht-Wildcard-Domains fuer Microsoft 365\n")
-handle.write("Generiert aus: " + ENDPOINT_URL + "\n")
-handle.write("Generiert am: " + datetime.now().strftime("%Y-%m-%d %H:%M:%S") + "\n\n")
+handle.write("# Nicht-Wildcard-Domains fuer Microsoft 365\n")
+handle.write("# Generiert aus: " + ENDPOINT_URL + "\n")
+handle.write("# Generiert am: " + datetime.now().strftime("%Y-%m-%d %H:%M:%S") + "\n\n")
 
 for domain in domains:
     handle.write(domain + "\n")
