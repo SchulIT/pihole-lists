@@ -30,7 +30,8 @@ ALWAYS_WILDCARD = [
     "onenote.net",
     "office365.com",
     "onedrive.com",
-    "outlook.com"
+    "outlook.com",
+    "trafficmanager.net" # Scheint eine CDN-Adresse von Microsoft zu sein (Dokumentation dieser URL unvollständig, siehe https://github.com/SchulIT/pihole-lists/issues/1)
 ]
 
 wildcards = [ ]
