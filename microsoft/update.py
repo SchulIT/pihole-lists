@@ -31,7 +31,8 @@ ALWAYS_WILDCARD = [
     "office365.com",
     "onedrive.com",
     "outlook.com",
-    "trafficmanager.net" # Scheint eine CDN-Adresse von Microsoft zu sein (Dokumentation dieser URL unvollständig, siehe https://github.com/SchulIT/pihole-lists/issues/1)
+    "trafficmanager.net", # Scheint eine CDN-Adresse von Microsoft zu sein (Dokumentation dieser URL unvollständig, siehe https://github.com/SchulIT/pihole-lists/issues/1)
+    "microsoftpersonalcontent.com" # soll wohl auch zu Microsoft SharePoint gehören
 ]
 
 wildcards = [ ]
