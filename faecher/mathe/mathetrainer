@@ -1,0 +1,7 @@
+# Zugriff auf Mathe Trainer
+# Achtung: Diese Website ist nur eine Art Landing-Page mit einer Weiterleitung
+# zu einem Angebot von Cornelsen. Um das Tool also effektiv nutzen zu können,
+# muss zusätzlich auch die Domain von Cornelsen freigeschaltet sein.
+# (befindet sich unter verlage/cornelsen).
+
+@@||mathe-trainer.de^
