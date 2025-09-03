@@ -1,6 +1,6 @@
 # Nicht-Wildcard-Domains fuer Microsoft 365
 # Generiert aus: https://endpoints.office.com/endpoints/worldwide?clientrequestid=b10c5ed1-bad1-445f-b386-b919946339a7
-# Generiert am: 2025-01-06 14:32:50
+# Generiert am: 2025-09-03 21:03:56
 
 account.activedirectory.windowsazure.com
 account.live.com
@@ -9,7 +9,6 @@ ajax.aspnetcdn.com
 ajax.aspnetcdn.com
 aka.ms
 apis.live.net
-apps.identrust.com
 assets.onestore.ms
 auth.gfx.ms
 auth.gfx.ms
@@ -25,15 +24,13 @@ crl.globalsign.net
 crl.identrust.com
 crl3.digicert.com
 crl4.digicert.com
-d.docs.live.net
 dc.services.visualstudio.com
-docs.live.net
 ecn.dev.virtualearth.net
 eus-www.sway-cdn.com
 eus-www.sway-extensions.com
-firstpartyapps.oaspapps.com
 g.live.com
 isrg.trustid.ocsp.identrust.com
+join.secure.skypeassets.com
 login.live.com
 login.live.com
 login.windows-ppe.net
@@ -51,19 +48,13 @@ oneclient.sfx.ms
 outlook.cloud.microsoft
 partnerservices.getmicrosoftkey.com
 platform.linkedin.com
-policykeyservice.dc.ad.msft.net
-prod.firstpartyapps.oaspapps.com.akadns.net
 secure.globalsign.com
 signup.live.com
 spoprod-a.akamaihd.net
-ssw.live.com
-staffhub.ms
 storage.live.com
 sway.com
 teams.cloud.microsoft
-telemetryservice.firstpartyapps.oaspapps.com
 tse1.mm.bing.net
-wus-firstpartyapps.oaspapps.com
 wus-www.sway-cdn.com
 wus-www.sway-extensions.com
 www.acompli.com
