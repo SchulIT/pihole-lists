@@ -3,11 +3,12 @@
 
 @@||play.google.com^
 @@||android.com^
+@@||android.apis.google.com^
 @@||google-analytics.com^
 @@||googleusercontent.com^
 @@||gstatic.com^
 @@||ggpht.com^
-@@||gv1.com^
+@@||gvt1.com^
 @@||gvt2.com^
 @@||gvt3.com^
 @@||googleapis.com^
@@ -16,3 +17,5 @@
 @@||gstatic.com^
 @@||omahaproxy.appspot.com^
 @@||googlezip.net^
+@@||dl.google.com^
+@@||dl-ssl.google.com^
